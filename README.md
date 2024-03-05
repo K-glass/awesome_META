@@ -6,7 +6,7 @@
 - **Vision**
   - **Pre-trained model-based**
     - **W/ Prompt**
-      -[x] L2P: Learning to Prompt for Continual Learning (CVPR, 2022) 
+      - -[x] L2P: Learning to Prompt for Continual Learning (CVPR, 2022) 
       -[x] DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (ECCV, 2022) 
       -[x] CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (CVPR, 2023) 
       - Generating Instance-level Prompts for Rehearsal-free Continual Learning (ICCV, 2023)
