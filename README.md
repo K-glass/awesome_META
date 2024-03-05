@@ -9,7 +9,7 @@
       - -[x] L2P: Learning to Prompt for Continual Learning (CVPR, 2022) 
       - -[x] DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (ECCV, 2022) 
       - -[x] CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (CVPR, 2023) 
-      - -[] Generating Instance-level Prompts for Rehearsal-free Continual Learning (ICCV, 2023)
+      - - [] Generating Instance-level Prompts for Rehearsal-free Continual Learning (ICCV, 2023)
       - -[] POP: Prompt Of Prompts for Continual Learning (Arxiv, 2023)
       - -[] Steering Prototypes with Prompt-tuning for Rehearsal-free Continual Learning (WACV, 2024)
       - -[] KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All (ICLR, 2024, underreview)
