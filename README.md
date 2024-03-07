@@ -34,6 +34,7 @@
   - -[ ] Learning without Forgetting for Vision-Language Models (Arxiv, 2023)
   - -[ ] Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV, 2023)
   - -[ ] Task-Attentive Transformer Architecture for Continual Learning of Vision-and-Language Tasks Using Knowledge Distillation (ACL, 2023)
+  - -[ ] Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing (NIPs, 2023)
     
 ### Long-tail Learning
 
