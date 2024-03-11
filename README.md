@@ -3,8 +3,11 @@
 ## Contents
 
 ### Continual Learning
+
 - **Vision**
   - **Pre-trained model-based**
+    - **Survey**
+      - Continual Learning with Pre-Trained Models: A Survey (arXiv, Jan 2024) [[paper]](https://arxiv.org/abs/2401.16386)
     - **W/ Prompt**
       - -[x] L2P: Learning to Prompt for Continual Learning (CVPR, 2022) 
       - -[x] DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (ECCV, 2022) 
