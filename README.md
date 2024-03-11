@@ -29,10 +29,10 @@
 - **Vision Language**
   - -[ ] Climb: A Continual Learning Benchmark for Vision-and-Language Tasks (NIPs, 2022)
   - -[ ] Continual Vision-Language Representation Learning with Off-Diagonal Information (ICML, 2023)
-  - -[ ] CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation (ICCV, 2023)
+  - -[x] CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation (ICCV, 2023)
   - -[ ] Generative Negative Text Replay for Continual Vision-Language Pretraining (ECCV, 2022)
   - -[ ] Learning without Forgetting for Vision-Language Models (Arxiv, 2023)
-  - -[ ] Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV, 2023)
+  - -[x] Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV, 2023)
   - -[ ] Task-Attentive Transformer Architecture for Continual Learning of Vision-and-Language Tasks Using Knowledge Distillation (ACL, 2023)
   - -[ ] Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing (NIPs, 2023)
     
