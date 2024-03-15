@@ -17,7 +17,7 @@
       - -[ ] Steering Prototypes with Prompt-tuning for Rehearsal-free Continual Learning (WACV, 2024)
       - -[ ] KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All (ICLR, 2024, underreview)
     - **W/o Prompt**
-      - -[ ] Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need (Arxiv, 2023)
+      - -[x] Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need (Arxiv, 2023)
       - -[ ] Read Between the Layers: Leveraging Intra-Layer Representations for Rehearsal-Free Continual Learning with Pre-Trained Models (Arxiv, 2023)
       - -[ ] RanPAC: Random Projections and Pre-trained Models for Continual Learning (NIPs, 2023)
       - -[ ] SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model (ICCV, 2023)
