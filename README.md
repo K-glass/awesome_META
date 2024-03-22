@@ -7,7 +7,7 @@
 - **Vision**
   - **Pre-trained model-based**
     - **Survey**
-      - Continual Learning with Pre-Trained Models: A Survey (arXiv, Jan 2024) [[paper]](https://arxiv.org/abs/2401.16386)
+      - -[ ] Continual Learning with Pre-Trained Models: A Survey (arXiv, Jan 2024) [[paper]](https://arxiv.org/abs/2401.16386)
     - **W/ Prompt**
       - -[x] L2P: Learning to Prompt for Continual Learning (CVPR, 2022) 
       - -[x] DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (ECCV, 2022) 
@@ -38,6 +38,9 @@
   - -[x] Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV, 2023)
   - -[ ] Task-Attentive Transformer Architecture for Continual Learning of Vision-and-Language Tasks Using Knowledge Distillation (ACL, 2023)
   - -[ ] Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing (NIPs, 2023)
+  - -[ ] Don’t Stop Learning: Towards Continual Learning for the CLIP Model
+  - -[ ] CLIP MODEL IS AN EFFICIENT CONTINUAL LEARNER
+  - -[ ] Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models
     
 ### Long-tail Learning
 
