@@ -36,7 +36,7 @@
   - -[ ] Generative Negative Text Replay for Continual Vision-Language Pretraining (ECCV, 2022)
   - -[ ] Learning without Forgetting for Vision-Language Models (Arxiv, 2023)
   - -[x] Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV, 2023)
-  - -[ ] Task-Attentive Transformer Architecture for Continual Learning of Vision-and-Language Tasks Using Knowledge Distillation (ACL, 2023)
+  - -[x] Task-Attentive Transformer Architecture for Continual Learning of Vision-and-Language Tasks Using Knowledge Distillation (ACL, 2023)
   - -[ ] Parameterizing Context: Unleashing the Power of Parameter-Efficient Fine-Tuning and In-Context Tuning for Continual Table Semantic Parsing (NIPs, 2023)
   - -[ ] Don’t Stop Learning: Towards Continual Learning for the CLIP Model
   - -[ ] CLIP MODEL IS AN EFFICIENT CONTINUAL LEARNER
